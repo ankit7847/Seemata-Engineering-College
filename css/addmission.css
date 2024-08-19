@@ -15,7 +15,7 @@
     background-position: center;
     background-size: cover;
     position: relative;
-    font-family: myFirstFont;
+    font-family: myFirstFont,Verdana, Geneva, Tahoma, sans-serif;
   }
 
   
