@@ -4,7 +4,7 @@ function getInputValue(){
     let a=1;
 
     if(inputVal==1){
-        document.getElementById("demo").innerHTML ="AMANULLAH RAHAMATULLABHAI ATHANIYA";
+        document.getElementById("demo").innerHTML ="Ankit Rathore";
         document.getElementById("demo1").innerHTML ="10000";
     }
     else if(inputVal==2)
@@ -14,43 +14,43 @@ function getInputValue(){
     }
     else if(inputVal==3)
     {
-        document.getElementById("demo").innerHTML ="TRUPTKUMAR GIRISHBHAI BARIA";
+        document.getElementById("demo").innerHTML ="Hemanat Barik";
         document.getElementById("demo1").innerHTML ="10000";   
     }
 
     else if(inputVal==4)
     {
-        document.getElementById("demo").innerHTML ="JAY VIJAYKUMAR BHANUSHALI";
+        document.getElementById("demo").innerHTML ="Sudip Maity";
         document.getElementById("demo1").innerHTML ="10000";   
     }
     else if(inputVal==5)
     {
-        document.getElementById("demo").innerHTML ="SMITKUMAR DINESHKUMAR BHEDA";
+        document.getElementById("demo").innerHTML ="Gourav Sharma";
         document.getElementById("demo1").innerHTML ="10000";   
     }
     else if(inputVal==6)
     {
-        document.getElementById("demo").innerHTML ="VIKAS SHANTIBHAI CHAUDHARY";
+        document.getElementById("demo").innerHTML ="Sanjeeb Kumar Sahu";
         document.getElementById("demo1").innerHTML ="20000";   
     }
     else if(inputVal==7)
     {
-        document.getElementById("demo").innerHTML ="NIRAVKUMAR AMIRAMBHAI CHAUHAN";
+        document.getElementById("demo").innerHTML ="Somendara Dibyajyoti";
         document.getElementById("demo1").innerHTML ="20000";   
     }
     else if(inputVal==8)
     {
-        document.getElementById("demo").innerHTML ="MOHAMMAD HARUN CHOUDHARY";
+        document.getElementById("demo").innerHTML ="Abhijit Giri";
         document.getElementById("demo1").innerHTML ="0";   
     }
     else if(inputVal==9)
     {
-        document.getElementById("demo").innerHTML ="ZAIDALI MEHDIHUSSAIN CHOUDHARY";
+        document.getElementById("demo").innerHTML ="Gopikrishna Parida";
         document.getElementById("demo1").innerHTML ="10000";   
     }
     else if(inputVal==10)
     {
-        document.getElementById("demo").innerHTML ="AMIT DAHYABHAI DASADIYA";
+        document.getElementById("demo").innerHTML ="Fhaguram Marandi";
         document.getElementById("demo1").innerHTML ="7500";   
     }
 
