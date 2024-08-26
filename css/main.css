@@ -141,7 +141,7 @@ h1{
 }
 p{
     color:#777;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
@@ -198,9 +198,9 @@ h3{
     transition: 0.5s;
 }
 .layer:hover{
-    background: rgba(0, 245, 253, 0.534);
-
-    /* rgba(253, 0, 0, 0.7); */
+     background:rgba(253, 0, 0, 0.7);  
+    
+    /* rgba(0, 245, 253, 0.534); */
 }
 .layer h3{
     width: 100%;
